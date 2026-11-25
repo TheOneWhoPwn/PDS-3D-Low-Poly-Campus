@@ -1,0 +1,21 @@
+{
+    "source_crs": "EPSG:3424",
+    "source_origin_xy": [
+        438469.9695451313,
+        557255.8993689135
+    ],
+    "horizontal_meters_per_unit": 0.30480060960121924,
+    "vertical_meters_per_unit": 0.3048006096012192,
+    "elevation_origin_m": 33.836867429594236,
+    "elevation_range_m": [
+        33.836867429594236,
+        67.59313961743158
+    ],
+    "grid_spacing_m": [
+        2.0005892075004574,
+        2.0005892075004716
+    ],
+    "vertical_exaggeration": 1.0,
+    "vertices": 151834,
+    "triangles": 301558
+}
